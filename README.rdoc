@@ -1,3 +1,7 @@
+=Rails 3.1 and Ruby 1.9.2
+
+This branch includes fixed needed for Rails 3.1 and Ruby 1.9.2
+
 =SimpleCaptcha
 
 SimpleCaptcha is the simplest and a robust captcha plugin. Its implementation requires
